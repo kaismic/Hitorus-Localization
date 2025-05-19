@@ -1,0 +1,176 @@
+{
+  "SharedResource": {
+    "Search": "Search",
+    "Download": "Download",
+    "Browse": "Browse",
+    "Settings": "Settings",
+    "AppInfo": "App Info",
+    "Language": "Language",
+    "Type": "Type",
+    "TitleKeyword": "Title Keyword",
+    "All": "All",
+    "doujinshi": "Doujinshi",
+    "manga": "Manga",
+    "artistcg": "Artist CG",
+    "gamecg": "Game CG",
+    "imageset": "Imageset",
+    "anime": "Anime",
+    "Tag": "Tag",
+    "Artist": "Artist",
+    "Male": "Male",
+    "Female": "Female",
+    "Group": "Group",
+    "Character": "Character",
+    "Series": "Series",
+    "Cancel": "Cancel",
+    "Confirm": "Confirm",
+    "Open": "Open",
+    "Close": "Close",
+    "Save": "Save",
+    "Delete": "Delete",
+    "Start": "Start",
+    "Pause": "Pause",
+    "Id": "Id",
+    "Title": "Title",
+    "UploadTime": "Upload Time",
+    "LastDownloadTime": "Last Download Time",
+    "Automatic": "Automatic",
+    "ViewMode": "View Mode",
+    "Default": "Default",
+    "Scroll": "Scroll",
+    "Unit_Second": "s",
+    "PageTurnInterval": "Page Turn Interval",
+    "AutoScrollMode": "Auto Scroll Mode",
+    "Continuous": "Continuous",
+    "ByPage": "By Page",
+    "AutoScrollSpeed": "Auto Scroll Speed",
+    "Loop": "Loop",
+    "ImageLayoutMode": "Image Layout Mode",
+    "Fixed": "Fixed",
+    "ViewDirection": "View Direction",
+    "LTR": "Left to Right",
+    "RTL": "Right to Left"
+  },
+  "Layout": {
+    "MainLayout": {
+      "Starting": "Starting...",
+      "ConnectionError": "Connection error. Please reload after starting the local server."
+    }
+  },
+  "Pages": {
+    "SearchPage": {
+      "Reload": "Reload",
+      "ClearAll": "Clear All",
+      "AutoSave": "Auto Save",
+      "Next": "Next",
+      "Finish": "Finish",
+      "Walkthrough1": "1. Create and edit tag filters.",
+      "Walkthrough2": "2. Select tag filters to include or exclude.",
+      "Walkthrough3": "3. Select a language, a type and a optionally enter title search keywords.",
+      "Walkthrough4": "4. Create search links and use them to search for galleries.",
+      "Include": "Include",
+      "Exclude": "Exclude",
+      "SelectPlaceholder": "Select a tag filter",
+      "TagFilterName": "Tag filter name",
+      "Button_Text_CreateSearchLink": "Create/copy search link",
+      "Dialog_Title_CreateTagFilter": "Create a new tag filter",
+      "Dialog_Title_RenameTagFilter": "Rename tag filter",
+      "Dialog_Title_DeleteTagFilter": "Select tag filters to delete:",
+      "Dialog_Title_DupliacteTags": "Duplicate Tags",
+      "Dialog_Header_DuplicateTags": "The following tags are conflicting:",
+      "Snackbar_CreateTagFilter_Success": "Created \"{0}\".",
+      "Snackbar_RenameTagFilter_Success": "Renamed \"{0}\" to \"{1}\".",
+      "Snackbar_RenameTagFilter_Failure": "Failed to rename \"{0}\" to \"{1}\".",
+      "Snackbar_SaveTagFilter_Success": "Saved \"{0}\".",
+      "Snackbar_SaveTagFilter_Failure": "Failed to save \"{0}\".",
+      "Snackbar_DeleteTagFilter_Success": "Deleted {0} tag filters.",
+      "Snackbar_DeleteTagFilter_Failure": "Failed to delete tag filters.",
+      "Snackbar_DeleteSearchLink_Failure": "Failed to delete search link.",
+      "Validation_Msg_Duplicate": "\"{0}\" already exists.",
+      "Snackbar_ImportFileTooLarge": "File size is too large: {0}. Maximum file size: {1}.",
+      "Snackbar_ImportInvalidFormat": "File format is invalid: {0}",
+      "Snackbar_ImportUnknownError": "An unknown error has occurred while importing the file.",
+      "Snackbar_ImportEmptyFile": "There are no data in the file.",
+      "Snackbar_ImportSuccess": "Imported {0} tag filters.",
+      "Dialog_Title_Import": "Select tag filters to import:",
+      "Dialog_Title_Export": "Select tag filters to export:",
+      "Import": "Import",
+      "Export": "Export"
+    },
+    "DownloadPage": {
+      "InputPlaceholder": "Enter Gallery ID or URL here (e.g. 2058075, https://hitomi.la",
+      "TryPageRefresh": "Try refreshing the page",
+      "ServerUnavilable": "Unable to connect to server",
+      "ConcurrentDownload": "Concurrent Download",
+      "ThreadsPerDownload": "Threads per Download",
+      "InvalidInput": "No valid IDs or URLs found in the input text.",
+      "StartAllDownloads": "Start all downloads",
+      "PauseAllDownloads": "Pause all downloads",
+      "DeleteAllDownloads": "Delete all downloads"
+    },
+    "BrowsePage": {
+      "DeleteSelection": "Delete selected items",
+      "Edit": "Edit",
+      "SortBy": "Sort by",
+      "SortDirection": "Sort Direction",
+      "Ascending": "Ascending",
+      "Descending": "Descending",
+      "ItemsPerPage": "Items per Page",
+      "AutoRefresh": "Auto Refresh",
+      "NoGalleriesFound": "No galleries found. Try again after removing search filters.",
+      "Snackbar_MultiGalleryDeleteSuccess": "Deleted {0} galleries.",
+      "Snackbar_MultiGalleryDeleteFailure": "Failed to delete galleries.",
+      "Snackbar_SingleGalleryDeleteSuccess": "Deleted \"{0}\".",
+      "Snackbar_SingleGalleryDeleteFailure": "Failed to delete \"{0}\"."
+    },
+    "SettingsPage": {
+      "GlobalSettings": "Global Settings",
+      "AppThemeColor": "App Theme Color",
+      "DefaultGalleryViewPageSettings": "Default Gallery View Page Settings",
+      "LoopDesc": "Go back to the first page when you have reach the end of the page.",
+      "InvertClickNav": "Invert Click Navigation",
+      "InvertClickNavDesc": "When enabled, clicking left side of the image navigates the page forward, and vice versa.",
+      "InvertKeyboardNav": "Invert Keyboard Navigation",
+      "InvertKeyboardNavDesc": "When enabled, pressing the left arrow key  navigates the page forward, and vice versa."
+    },
+    "AboutPage": {
+      "Version": "Version",
+      "Developer": "Developer",
+      "CheckForUpdates": "Check for Updates"
+    },
+    "GalleryViewPage": {
+      "Page": "Page",
+      "ImageFitMode": "Image Fit Mode",
+      "Horizontal": "Horizontal",
+      "Vertical": "Vertical",
+      "Play": "Play",
+      "Stop": "Stop",
+      "PageOffset": "Page Offset",
+      "ImagesPerPage": "Images per Page",
+      "MaxImagesPerPage": "Maximum Images per Page"
+    }
+  },
+  "Components": {
+    "TagFilterEditor": {
+      "CreateTooltip": "Create new",
+      "RenameTooltip": "Rename"
+    },
+    "GalleryBrowseItem": {
+      "OpenGallery": "Open Gallery"
+    },
+    "SurveyDialog": {
+      "ContentText": "Hi! We've noticed you've been using the app for a while. Would you mind taking a quick survey on the app via Google Forms? It should only about 30 seconds.",
+      "SurveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfTuc6uvOlkuRjSs1x3te-QPvucLB8ma_7CzYIShGow7nfLRA/viewform?usp=dialog",
+      "DoNotShowAgain": "Don't show again"
+    }
+  },
+  "Services": {
+    "DownloadClientManagerService": {
+      "DownloadStatus_Starting": "Starting download...",
+      "DownloadStatus_Downloading": "Downloading...",
+      "DownloadStatus_Completed": "Download complete",
+      "DownloadStatus_Paused": "Download paused",
+      "DownloadStatus_ConnectionLost": "Connection lost"
+    }
+  }
+}

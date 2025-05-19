@@ -1,0 +1,176 @@
+{
+  "SharedResource": {
+    "Search": "검색",
+    "Download": "다운로드",
+    "Browse": "찾아보기",
+    "Settings": "설정",
+    "AppInfo": "앱 정보",
+    "Language": "언어",
+    "Type": "타입",
+    "TitleKeyword": "제목 키워드",
+    "All": "전체",
+    "doujinshi": "동인지",
+    "manga": "망가",
+    "artistcg": "작가 CG",
+    "gamecg": "게임 CG",
+    "imageset": "이미지 모음",
+    "anime": "애니메이션",
+    "Tag": "태그",
+    "Artist": "작가",
+    "Male": "남성",
+    "Female": "여성",
+    "Group": "그룹",
+    "Character": "캐릭터",
+    "Series": "시리즈",
+    "Cancel": "취소",
+    "Confirm": "확인",
+    "Open": "열기",
+    "Close": "닫기",
+    "Save": "저장",
+    "Delete": "삭제",
+    "Start": "시작",
+    "Pause": "일시정지",
+    "Id": "아이디",
+    "Title": "제목",
+    "UploadTime": "업로드 시간",
+    "LastDownloadTime": "마지막 다운로드 시간",
+    "Automatic": "자동",
+    "ViewMode": "보기 모드",
+    "Default": "기본",
+    "Scroll": "스크롤",
+    "Unit_Second": "초",
+    "PageTurnInterval": "페이지 넘김 간격",
+    "AutoScrollMode": "자동 스크롤 모드",
+    "Continuous": "연속적",
+    "ByPage": "페이지 단위",
+    "AutoScrollSpeed": "자동 스크롤 속도",
+    "Loop": "루프",
+    "ImageLayoutMode": "이미지 레이아웃 모드",
+    "Fixed": "고정",
+    "ViewDirection": "보기 방향",
+    "LTR": "왼쪽에서 오른쪽",
+    "RTL": "오른쪽에서 왼쪽"
+  },
+  "Layout": {
+    "MainLayout": {
+        "Starting": "시작하는 중...",
+        "ConnectionError": "연결 오류. 로컬 서버를 시작한 후 새로고침 해주세요."
+    }
+  },
+  "Pages": {
+    "SearchPage": {
+      "Reload": "다시 불러오기",
+      "ClearAll": "모두 지우기",
+      "AutoSave": "자동 저장",
+      "Next": "다음",
+      "Finish": "마침",
+      "Walkthrough1": "1. 태그 필터를 만들고 수정하세요.",
+      "Walkthrough2": "2. 포함 또는 제외할 태그 필터를 선택하세요.",
+      "Walkthrough3": "3. 언어, 타입을 선택하고 제목 키워드를(선택 사항) 입력하세요.",
+      "Walkthrough4": "4. 검색 링크를 생성하고 갤러리를 검색하는데 사용하세요.",
+      "Include": "포함",
+      "Exclude": "제외",
+      "SelectPlaceholder": "태그 필터를 선택하세요",
+      "TagFilterName": "태그 필터 이름",
+      "Button_Text_CreateSearchLink": "검색 링크를 생성/복사하기",
+      "Dialog_Title_CreateTagFilter": "새로운 태그 필터 만들기",
+      "Dialog_Title_RenameTagFilter": "태그 필터 이름 바꾸기",
+      "Dialog_Title_DeleteTagFilter": "삭제할 태그 필터를 선택하세요:",
+      "Dialog_Title_DupliacteTags": "중복 태그",
+      "Dialog_Header_DuplicateTags": "아래에 충돌하는 태그들이 있습니다:",
+      "Snackbar_CreateTagFilter_Success": "\"{0}\" 생성 완료.",
+      "Snackbar_RenameTagFilter_Success": "\"{0}\"에서 \"{1}\"(으)로 이름을 변경했습니다.",
+      "Snackbar_RenameTagFilter_Failure": "\"{0}\"에서 \"{1}\"(으)로 이름 변경을 실패했습니다.",
+      "Snackbar_SaveTagFilter_Success": "\"{0}\" 저장 완료.",
+      "Snackbar_SaveTagFilter_Failure": "\"{0}\" 저장 실패.",
+      "Snackbar_DeleteTagFilter_Success": "{0}개의 태그 필터를 삭제했습니다.",
+      "Snackbar_DeleteTagFilter_Failure": "태그 필터를 삭제하는데 실패했습니다.",
+      "Snackbar_DeleteSearchLink_Failure": "검색 링크를 삭제하는데 실패했습니다.",
+      "Validation_Msg_Duplicate": "\"{0}\"이(가) 이미 존재합니다.",
+      "Snackbar_ImportFileTooLarge": "파일 크기가 너무 큽니다: {0}. 최대 파일 크기: {1}.",
+      "Snackbar_ImportInvalidFormat": "파일 형식이 유효하지 않습니다: {0}",
+      "Snackbar_ImportUnknownError": "파일을 불러오는 도중 알 수 없는 오류가 발생했습니다.",
+      "Snackbar_ImportEmptyFile": "파일에 데이터가 없습니다.",
+      "Snackbar_ImportSuccess": "{0}개의 태그 필터를 불러왔습니다.",
+      "Dialog_Title_Import": "불러올 태그 필터를 선택해주세요:",
+      "Dialog_Title_Export": "내보낼 태그 필터를 선택해주세요:",
+      "Import": "불러오기",
+      "Export": "내보내기"
+    },
+    "DownloadPage": {
+      "InputPlaceholder": "여기에 갤러리 아이디 또는 URL을 입력하세요 (예시: 2058075, https://hitomi.la/...). 한번에 여러개의 입력이 가능합니다.",
+      "TryPageRefresh": "페이지를 새로고침 해보세요",
+      "ServerUnavilable": "서버에 연결할 수 없습니다",
+      "ConcurrentDownload": "동시 다운로드",
+      "ThreadsPerDownload": "다운로드 당 스레드",
+      "InvalidInput": "입력된 텍스트에서 유효한 아이디 또는 URL을 찾지 못했습니다.  ",
+      "StartAllDownloads": "전체 다운로드 시작",
+      "PauseAllDownloads": "전체 다운로드 일시정지",
+      "DeleteAllDownloads": "전체 다운로드 삭제"
+    },
+    "BrowsePage": {
+      "DeleteSelection": "선택 항목 지우기",
+      "Edit": "수정",
+      "SortBy": "정렬",
+      "SortDirection": "정렬 방향",
+      "Ascending": "오름차순",
+      "Descending": "내림차순",
+      "ItemsPerPage": "페이지 당 항목 개수",
+      "AutoRefresh": "자동 새로고침",
+      "NoGalleriesFound": "아무런 갤러리를 찾지 못했습니다. 검색 필터를 제거한 후 다시 시도해보세요.",
+      "Snackbar_MultiGalleryDeleteSuccess": "{0}개의 갤러리를 삭제했습니다.",
+      "Snackbar_MultiGalleryDeleteFailure": "갤러리 삭제를 실패했습니다.",
+      "Snackbar_SingleGalleryDeleteSuccess": "\"{0}\"을(를) 삭제했습니다.",
+      "Snackbar_SingleGalleryDeleteFailure": "\"{0}\"을(를) 삭제하는데 실패했습니다."
+    },
+    "SettingsPage": {
+      "GlobalSettings": "전체 설정",
+      "AppThemeColor": "앱 테마 색상",
+      "DefaultGalleryViewPageSettings": "기본 갤러리 보기 설정",
+      "LoopDesc": "마지막 페이지에 도달하면 첫번째 페이지로 돌아갑니다.",
+      "InvertClickNav": "클릭 내비게이션 반전",
+      "InvertClickNavDesc": "켜져있으면 이미지의 왼쪽을 클릭 시 페이지를 앞으로 가게하고, 오른쪽을 클릭시 뒤로 가게 합니다.",
+      "InvertKeyboardNav": "키보드 내비게이션 반전",
+      "InvertKeyboardNavDesc": "켜져있으면 왼쪽 화살표 키를 누를 시 페이지를 앞으로 가게하고, 오른쪽 화살표 키를 누를 시 뒤로 가게 합니다."
+    },
+    "AboutPage": {
+      "Version": "버전",
+      "Developer": "개발자",
+      "CheckForUpdates": "업데이트 확인"
+    },
+    "GalleryViewPage": {
+      "Page": "페이지",
+      "ImageFitMode": "이미지 맞춤 모드",
+      "Horizontal": "가로",
+      "Vertical": "세로",
+      "Play": "재생",
+      "Stop": "정지",
+      "PageOffset": "페이지 오프셋",
+      "ImagesPerPage": "페이지 당 이미지 개수",
+      "MaxImagesPerPage": "페이지 당 최대 이미지 개수"
+    }
+  },
+  "Components": {
+    "TagFilterEditor": {
+      "CreateTooltip": "Create new",
+      "RenameTooltip": "Rename"
+    },
+    "GalleryBrowseItem": {
+      "OpenGallery": "갤러리 열기"
+    },
+    "SurveyDialog": {
+      "ContentText": "안녕하세요! 앱을 꾸준히 사용중이신것 같네요. 혹시 괜찮다면 이 앱에 대해서 간단한 구글 폼 설문조사에 참여해 주실 수 있을까요? 30초 정도 밖에 걸리지 않을거예요",
+      "SurveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScJQxPFE2qUVs1pyPbcHUjmZ_fewPqL5b5VnFD29JXhw_rA7A/viewform?usp=dialog",
+      "DoNotShowAgain": "다시보지 않기"
+    }
+  },
+  "Services": {
+    "DownloadClientManagerService": {
+      "DownloadStatus_Starting": "다운로드를 시작하는 중...",
+      "DownloadStatus_Downloading": "다운로드 중...",
+      "DownloadStatus_Completed": "다운로드 완료",
+      "DownloadStatus_Paused": "다운로드 일시정지됨",
+      "DownloadStatus_ConnectionLost": "연결 끊김"
+    }
+  }
+}
