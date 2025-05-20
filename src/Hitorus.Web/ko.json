@@ -95,7 +95,7 @@
       "Snackbar_ImportSuccess": "{0}개의 태그 필터를 불러왔습니다.",
       "Dialog_Title_Import": "불러올 태그 필터를 선택해주세요:",
       "Dialog_Title_Export": "내보낼 태그 필터를 선택해주세요:",
-      "Import": "불러오기",
+      "Import": "가져오기",
       "Export": "내보내기"
     },
     "DownloadPage": {
