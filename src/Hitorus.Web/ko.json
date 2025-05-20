@@ -55,7 +55,7 @@
     "MainLayout": {
         "Starting": "시작하는 중...",
         "ConnectionError": "연결 오류. 로컬 서버를 시작한 후 새로고침 해주세요.",
-      "NewVersionAvailable": "새로운 앱 버전이 있습니다: {0}"
+        "NewVersionAvailable": "새로운 앱 버전이 있습니다: {0}"
     }
   },
   "Pages": {
