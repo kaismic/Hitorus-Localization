@@ -159,7 +159,7 @@
     "GalleryBrowseItem": {
       "OpenGallery": "갤러리 열기"
     },
-    "SurveyDialog": {
+    "Dialogs": {
       "SurveyPromptDialog": {
         "PromptText": "안녕하세요! 앱을 꾸준히 사용중이신것 같네요. 혹시 괜찮다면 이 앱에 대해서 간단한 구글 폼 설문조사에 참여해 주실 수 있을까요? 30초 정도 밖에 걸리지 않을거예요",
         "SurveyLinkText": "설문조사 링크",
