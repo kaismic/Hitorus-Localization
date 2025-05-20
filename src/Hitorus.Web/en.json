@@ -54,7 +54,8 @@
   "Layout": {
     "MainLayout": {
       "Starting": "Starting...",
-      "ConnectionError": "Connection error. Please reload after starting the local server."
+      "ConnectionError": "Connection error. Please reload after starting the local server.",
+      "NewVersionAvailable": "A new app version is available: {0}"
     }
   },
   "Pages": {
@@ -158,11 +159,13 @@
     "GalleryBrowseItem": {
       "OpenGallery": "Open Gallery"
     },
-    "SurveyDialog": {
-      "ContentText": "Hi! We've noticed you've been using the app for a while. Would you mind taking a quick survey on the app via Google Forms? It should only about 30 seconds.",
-      "SurveyLinkText": "Survey Link",
-      "SurveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfTuc6uvOlkuRjSs1x3te-QPvucLB8ma_7CzYIShGow7nfLRA/viewform?usp=dialog",
-      "DoNotShowAgain": "Don't show again"
+    "Dialogs": {
+      "SurveyPromptDialog": {
+        "PromptText": "Hi! We've noticed you've been using the app for a while. Would you mind taking a quick survey on the app via Google Forms? It should only about 30 seconds.",
+        "SurveyLinkText": "Survey Link",
+        "SurveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfTuc6uvOlkuRjSs1x3te-QPvucLB8ma_7CzYIShGow7nfLRA/viewform?usp=dialog",
+        "DoNotShowAgain": "Don't show again"
+      }
     }
   },
   "Services": {
