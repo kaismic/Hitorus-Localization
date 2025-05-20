@@ -69,10 +69,12 @@ for d in selectedDirs:
 
 with open(lastUpdateTimeRecordPath, "r+") as f:
     data = json.load(f)
+    timeNow = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     if generateOption & 0b01:
-        data[projectNames[0]] = datetime.now().isoformat()
+        data[projectNames[0]] = timeNow
     if generateOption & 0b10:
-        data[projectNames[1]] = datetime.now().isoformat()
+        data[projectNames[1]] = timeNow
     f.seek(0)
+    f.truncate(0)
     json.dump(data, f, indent = 2)
 
