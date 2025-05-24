@@ -55,7 +55,7 @@
     "MainLayout": {
       "Starting": "Starting...",
       "ConnectionError": "Connection error. Please reload after starting the local server.",
-      "NewVersionAvailable": "A new app version is available: {0}"
+      "NewApiVersionAvailable": "A new API version is available: {0}"
     }
   },
   "Pages": {
