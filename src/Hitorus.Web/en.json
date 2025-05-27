@@ -55,12 +55,13 @@
     "MainLayout": {
       "Starting": "Starting...",
       "ConnectionError": "Connection Error",
-      "EnsureApiRunning": "1. Ensure the local API server is running.",
+      "EnsureServerRunning": "1. Ensure your local server is running.",
       "DownloadLink": "Download Link",
       "CheckPortNumber": "2. Check and change current port number to match the API server's port number.",
       "CurrentPortNumber": "Current port number: {0}",
-      "EnterApiPortNumber": "Enter API server's port number:",
-      "NewApiVersionAvailable": "A new API version is available: {0}"
+      "EnterPortNumber": "Enter the local server's port number:",
+      "IncompatibleVersion": "Incompatible Server Version: {0}",
+      "IncompatibleDesc": "Your current local server is incompatible. Please download the latest version:"
     }
   },
   "Pages": {
