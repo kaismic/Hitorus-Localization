@@ -61,7 +61,7 @@
       "CurrentPortNumber": "Current port number: {0}",
       "EnterPortNumber": "Enter the local server's port number:",
       "IncompatibleVersion": "Incompatible Server Version: {0}",
-      "IncompatibleDesc": "Your current local server is incompatible. Please download the latest version:"
+      "IncompatibleDesc": "Your current local server version is incompatible. Please download the latest version:"
     }
   },
   "Pages": {
