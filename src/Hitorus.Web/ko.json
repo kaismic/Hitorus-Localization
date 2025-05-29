@@ -114,7 +114,9 @@
       "StartAllDownloads": "전체 시작",
       "PauseAllDownloads": "전체 일시정지",
       "DeleteAllDownloads": "전체 삭제",
-      "PreferredFormat": "선호하는 이미지 파일 형식"
+      "PreferredFormat": "선호하는 이미지 파일 형식",
+      "ImportGalleries": "존재하는 갤러리 불러오기",
+      "ImportSuccess": "{0}개의 갤러리를 불러왔습니다."
     },
     "BrowsePage": {
       "DeleteSelection": "선택 항목 지우기",

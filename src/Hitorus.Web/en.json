@@ -114,7 +114,9 @@
       "StartAllDownloads": "Start all",
       "PauseAllDownloads": "Pause all",
       "DeleteAllDownloads": "Delete all",
-      "PreferredFormat": "Preferred Image File Format"
+      "PreferredFormat": "Preferred Image File Format",
+      "ImportGalleries": "Import Existing Galleries",
+      "ImportSuccess": "Imported {0} galleries."
     },
     "BrowsePage": {
       "DeleteSelection": "Delete selected items",
