@@ -111,9 +111,10 @@
       "ConcurrentDownload": "동시 다운로드",
       "ThreadsPerDownload": "다운로드 당 스레드",
       "InvalidInput": "입력된 텍스트에서 유효한 아이디 또는 URL을 찾지 못했습니다.  ",
-      "StartAllDownloads": "전체 다운로드 시작",
-      "PauseAllDownloads": "전체 다운로드 일시정지",
-      "DeleteAllDownloads": "전체 다운로드 삭제"
+      "StartAllDownloads": "전체 시작",
+      "PauseAllDownloads": "전체 일시정지",
+      "DeleteAllDownloads": "전체 삭제",
+      "PreferredFormat": "선호하는 이미지 파일 형식"
     },
     "BrowsePage": {
       "DeleteSelection": "선택 항목 지우기",

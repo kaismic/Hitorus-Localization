@@ -111,9 +111,10 @@
       "ConcurrentDownload": "Concurrent Download",
       "ThreadsPerDownload": "Threads per Download",
       "InvalidInput": "No valid IDs or URLs found in the input text.",
-      "StartAllDownloads": "Start all downloads",
-      "PauseAllDownloads": "Pause all downloads",
-      "DeleteAllDownloads": "Delete all downloads"
+      "StartAllDownloads": "Start all",
+      "PauseAllDownloads": "Pause all",
+      "DeleteAllDownloads": "Delete all",
+      "PreferredFormat": "Preferred Image File Format"
     },
     "BrowsePage": {
       "DeleteSelection": "Delete selected items",
