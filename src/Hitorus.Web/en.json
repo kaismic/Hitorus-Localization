@@ -127,6 +127,7 @@
       "Ascending": "Ascending",
       "Descending": "Descending",
       "ItemsPerPage": "Items per Page",
+      "ThumbnailImageCount": "Thumbnail Image Count",
       "AutoRefresh": "Auto Refresh",
       "NoGalleriesFound": "No galleries found. Try again after removing search filters.",
       "Snackbar_MultiGalleryDeleteSuccess": "Deleted {0} galleries.",

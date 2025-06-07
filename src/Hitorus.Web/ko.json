@@ -127,6 +127,7 @@
       "Ascending": "오름차순",
       "Descending": "내림차순",
       "ItemsPerPage": "페이지 당 항목 개수",
+      "ThumbnailImageCount": "썸네일 이미지 개수",
       "AutoRefresh": "자동 새로고침",
       "NoGalleriesFound": "아무런 갤러리를 찾지 못했습니다. 검색 필터를 제거한 후 다시 시도해보세요.",
       "Snackbar_MultiGalleryDeleteSuccess": "{0}개의 갤러리를 삭제했습니다.",
