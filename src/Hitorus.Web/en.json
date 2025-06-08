@@ -121,7 +121,7 @@
     },
     "BrowsePage": {
       "ExitEditMode": "Exit edit mode",
-      "DeleteSelection": "Delete selected items",
+      "DeleteSelection": "Delete selection",
       "Edit": "Edit",
       "SortBy": "Sort by",
       "SortDirection": "Sort Direction",
