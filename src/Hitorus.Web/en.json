@@ -120,6 +120,7 @@
       "ImportSuccess": "Imported {0} galleries."
     },
     "BrowsePage": {
+      "ExitEditMode": "Exit edit mode",
       "DeleteSelection": "Delete selected items",
       "Edit": "Edit",
       "SortBy": "Sort by",

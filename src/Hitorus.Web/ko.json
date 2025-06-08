@@ -120,6 +120,7 @@
       "ImportSuccess": "{0}개의 갤러리를 불러왔습니다."
     },
     "BrowsePage": {
+      "ExitEditMode": "수정 모드 해제",
       "DeleteSelection": "선택 항목 지우기",
       "Edit": "수정",
       "SortBy": "정렬",
