@@ -112,14 +112,14 @@
       "MaxConcurrentDownloadCount": "Maximum Concurrent Download Count",
       "DownloadThreadCount": "Download Thread Count",
       "InvalidInput": "No valid IDs or URLs found in the input text.",
-      "StartAllDownloads": "Start all",
       "PauseAllDownloads": "Pause all",
       "DeleteAllDownloads": "Delete all",
       "PreferredFormat": "Preferred Image File Format",
       "ImportGalleries": "Import Existing Galleries",
       "ImportSuccess": "Imported {0} galleries.",
-      "DefaultDownload": "Default Download (Gallery Info + Images)",
-      "DownloadGalleryInfoOnly": "Download Gallery Info Only"
+      "QuickSave": "Quick Save",
+      "DownloadToolTip": "Downloads gallery information and images",
+      "QuickSaveToolTip": "Downloads gallery information only"
     },
     "BrowsePage": {
       "ExitEditMode": "Exit edit mode",
