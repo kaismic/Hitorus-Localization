@@ -107,7 +107,6 @@
     },
     "DownloadPage": {
       "InputPlaceholder": "여기에 갤러리 아이디 또는 URL을 입력하세요 (예시: 2058075, https://hitomi.la/...). 한번에 여러개의 입력이 가능합니다.",
-      "TryPageRefresh": "페이지를 새로고침 해보세요",
       "Disconnected": "연결 끊김",
       "MaxConcurrentDownloadCount": "최대 동시 다운로드 수",
       "DownloadThreadCount": "다운로드 스레드 수",
