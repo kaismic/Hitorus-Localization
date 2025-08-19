@@ -117,7 +117,9 @@
       "DeleteAllDownloads": "Delete all",
       "PreferredFormat": "Preferred Image File Format",
       "ImportGalleries": "Import Existing Galleries",
-      "ImportSuccess": "Imported {0} galleries."
+      "ImportSuccess": "Imported {0} galleries.",
+      "DefaultDownload": "Default Download (Gallery Info + Images)",
+      "DownloadGalleryInfoOnly": "Download Gallery Info Only"
     },
     "BrowsePage": {
       "ExitEditMode": "Exit edit mode",
@@ -182,6 +184,7 @@
   },
   "Services": {
     "DownloadClientManagerService": {
+      "DownloadStatus_Queued": "Download queued...",
       "DownloadStatus_Starting": "Starting download...",
       "DownloadStatus_Downloading": "Downloading...",
       "DownloadStatus_Completed": "Download complete",

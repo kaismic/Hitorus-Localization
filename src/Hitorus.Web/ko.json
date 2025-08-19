@@ -117,7 +117,9 @@
       "DeleteAllDownloads": "전체 삭제",
       "PreferredFormat": "선호하는 이미지 파일 형식",
       "ImportGalleries": "기존 갤러리 불러오기",
-      "ImportSuccess": "{0}개의 갤러리를 불러왔습니다."
+      "ImportSuccess": "{0}개의 갤러리를 불러왔습니다.",
+      "DefaultDownload": "기본 다운로드 (갤러리 정보 + 이미지)",
+      "DownloadGalleryInfoOnly": "갤러리 정보만 다운로드"
     },
     "BrowsePage": {
       "ExitEditMode": "수정 모드 해제",
@@ -182,6 +184,7 @@
   },
   "Services": {
     "DownloadClientManagerService": {
+      "DownloadStatus_Queued": "다운로드 대기 중...",
       "DownloadStatus_Starting": "다운로드를 시작하는 중...",
       "DownloadStatus_Downloading": "다운로드 중...",
       "DownloadStatus_Completed": "다운로드 완료",
