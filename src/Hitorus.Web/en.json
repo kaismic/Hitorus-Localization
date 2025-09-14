@@ -50,7 +50,12 @@
     "Fixed": "Fixed",
     "ViewDirection": "View Direction",
     "LTR": "Left to Right",
-    "RTL": "Right to Left"
+    "RTL": "Right to Left",
+    "TagFilters": "Tag Filters",
+    "Galleries": "Galleries",
+    "AppSettings": "App Settings",
+    "ViewPageDefaultSettings": "View Page Default Settings",
+    "RequiresHigherVersion": "Requires version {0} or higher."
   },
   "Layout": {
     "MainLayout": {
@@ -95,13 +100,6 @@
       "Snackbar_DeleteTagFilter_Failure": "Failed to delete tag filters.",
       "Snackbar_DeleteSearchLink_Failure": "Failed to delete search link.",
       "Validation_Msg_Duplicate": "\"{0}\" already exists.",
-      "Snackbar_ImportFileTooLarge": "File size is too large: {0}. Maximum file size: {1}.",
-      "Snackbar_ImportInvalidFormat": "File format is invalid: {0}",
-      "Snackbar_ImportUnknownError": "An unknown error has occurred while importing the file.",
-      "Snackbar_ImportEmptyFile": "There are no data in the file.",
-      "Snackbar_ImportSuccess": "Imported {0} tag filters.",
-      "Dialog_Title_Import": "Select tag filters to import:",
-      "Dialog_Title_Export": "Select tag filters to export:",
       "Import": "Import",
       "Export": "Export"
     },
@@ -140,7 +138,6 @@
     "SettingsPage": {
       "GlobalSettings": "Global Settings",
       "AppThemeColor": "App Theme Color",
-      "DefaultGalleryViewPageSettings": "Default Gallery View Page Settings",
       "LoopDesc": "Go back to the first page when you have reach the end of the page.",
       "InvertClickNav": "Invert Click Navigation",
       "InvertClickNavDesc": "When enabled, clicking left side of the image navigates the page forward, and vice versa.",
@@ -179,6 +176,20 @@
         "SurveyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfTuc6uvOlkuRjSs1x3te-QPvucLB8ma_7CzYIShGow7nfLRA/viewform?usp=dialog",
         "DoNotShowAgain": "Don't show again"
       }
+    },
+    "DataExporter": {
+      "Dialog_Title_Export": "Select tag filters to export:"
+    },
+    "DataImporter": {
+      "Snackbar_ImportFileTooLarge": "File size is too large: {0}. Maximum file size: {1}.",
+      "Snackbar_ImportInvalidFormat": "File format is invalid: {0}",
+      "Snackbar_ImportUnknownError": "An unknown error has occurred while importing the file.",
+      "Snackbar_ImportEmptyFile": "There are no data in the file.",
+      "Dialog_Title_ImportTagFilters": "Select tag filters to import:",
+      "Snackbar_ImportTagFiltersSuccess": "Imported {0} tag filters.",
+      "Snackbar_ImportGalleriesSuccess": "Import {0} galleries.",
+      "Snackbar_ImportAppSettingsSuccess": "Imported app settings.",
+      "Snackbar_ImportViewPageDefaultSettingsSuccess": "Imported view page default settings."
     }
   },
   "Services": {
