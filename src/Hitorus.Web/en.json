@@ -67,7 +67,9 @@
       "CurrentPortNumber": "Current port number: {0}",
       "EnterPortNumber": "Enter the local server's port number:",
       "IncompatibleVersion": "Incompatible Server Version: {0}",
-      "IncompatibleDesc": "Your current local server version is incompatible. Please download the latest version:"
+      "IncompatibleDesc": "Your current local server version is incompatible. Please download the latest version:",
+      "RecommendedActionDesc1": "Before updating the latest version, it is highly recommended to save your current data by downloading them.",
+      "RecommendedActionDesc2": "Use the buttons below to download your data and import them later."
     }
   },
   "Pages": {
@@ -164,7 +166,8 @@
   "Components": {
     "TagFilterEditor": {
       "CreateTooltip": "Create new",
-      "RenameTooltip": "Rename"
+      "RenameTooltip": "Rename",
+      "Dialog_Title_SelectTagFilter": "Select the tag filter to edit:"
     },
     "GalleryBrowseItem": {
       "OpenGallery": "Open Gallery"
@@ -190,6 +193,13 @@
       "Snackbar_ImportGalleriesSuccess": "Import {0} galleries.",
       "Snackbar_ImportAppSettingsSuccess": "Imported app settings.",
       "Snackbar_ImportViewPageDefaultSettingsSuccess": "Imported view page default settings."
+    },
+    "DownloadItemView": {
+      "Enqueued": "Enqueued",
+      "Downloading": "Downloading",
+      "Paused": "Paused",
+      "Completed": "Download Completed",
+      "Failed": "Download Failed"
     }
   },
   "Services": {
